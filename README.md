@@ -1,0 +1,1 @@
+This ATM system allows users to securely withdraw cash, deposit money, check account balances, and change their passwords. Designed for simplicity and reliability, it ensures safe and efficient banking transactions with user-friendly prompts and robust error handling.
